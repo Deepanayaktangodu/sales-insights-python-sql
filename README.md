@@ -1,2 +1,13 @@
-# sales-insights-python-sql
-This project shows how to create a basic sales summary using Python and SQLite. It connects to a sales database, runs SQL queries to get total quantity and revenue by product, and visualizes the results using pandas and matplotlib. A simple and practical example of SQL + Python for data analysis.
+##Basic Sales Summary Using SQLite and Python
+
+## What I Did
+- Created an SQLite database in Python with a sales table.
+- Ran a SQL query to get total quantity and revenue by product.
+- Imported the results into a pandas DataFrame.
+- Visualized the data using a bar chart (matplotlib).
+
+## Tools Used
+- Python (Jupyter Notebook)
+- SQLite (via sqlite3)
+- pandas
+- matplotlib
